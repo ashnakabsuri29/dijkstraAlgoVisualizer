@@ -1,0 +1,28 @@
+.grid{
+    margin: 50px 0 0 ;
+    margin-bottom: 20px;
+  
+}
+
+.my-btn{
+    margin-top: 10px;
+    margin-right: 10px;
+    height: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.my-btn:hover {
+    background-color: rgb(156, 204, 236);
+}
+
+.img{
+    height: 60px;
+    float: left;
+    margin-top: 10px;
+}
+
+.para{
+    color:antiquewhite;
+    text-align: left;
+    padding-top: 30px;
+}
